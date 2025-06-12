@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": "3",
+      "uname": "Amizh",
+      "age": "29",
+      "city": "Chennai"
+    },
+    {
+      "id": "5",
+      "uname": "Abi",
+      "age": "24",
+      "city": "Thirunelveli"
+    },
+    {
+      "id": "6",
+      "uname": "Thanusri",
+      "age": "17",
+      "city": "kovilpatti"
+    },
+    {
+      "id": "7",
+      "uname": "priya",
+      "age": "34",
+      "city": "sivakasi"
+    },
+    {
+      "id": "8",
+      "uname": "paru",
+      "age": "43",
+      "city": "Thoothukkudi"
+    }
+  ]
+}
